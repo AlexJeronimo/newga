@@ -36,4 +36,4 @@ jobs:
       #    echo Add other actions to build,
        #   echo test, and deploy your project.
       - name: Run sh script
-        run: bash path/script.sh
+        run: bash script.sh
